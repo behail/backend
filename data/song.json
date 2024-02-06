@@ -1,0 +1,26 @@
+[
+  {
+    "title": "New year Album",
+    "artist": "Aster Awoke",
+    "album": "New Album 2016",
+    "genre": "gener 1"
+  },
+  {
+    "title": "Tikur Sew",
+    "artist": "Teddy Afro",
+    "album": "Tikur Sew Album",
+    "genre": "gener 1"
+  },
+  {
+    "title": "New year Album 2",
+    "artist": "Aster 2",
+    "album": "New Album 2016 2",
+    "genre": "gener 2"
+  },
+  {
+    "title": "New year Album 3",
+    "artist": "Aster 3",
+    "album": "New Album 2016 3",
+    "genre": "gener 3"
+  }
+]
