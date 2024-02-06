@@ -1,10 +1,10 @@
 # Use an official Node runtime as the base image
 FROM node:14
 
-# Set the working directory in the container to /app
-WORKDIR /app
+# Set the working directory in the container to /
+WORKDIR /
 
-# Copy package.json and package-lock.json to /app
+# Copy package.json and package-lock.json to /
 COPY package*.json ./
 
 # Install npm dependencies
